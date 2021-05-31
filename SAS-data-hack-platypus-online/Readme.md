@@ -2,7 +2,7 @@
 
 https://sascompetitions.ru/competitions/sas-data-hack-platypus-online#\
 
-**Две задачи: **
+**Две задачи:**
 - классификация. Метка отмены заказов 
 - регерссия. Число часов от отказа до времени доставки
 
